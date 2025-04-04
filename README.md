@@ -5,6 +5,6 @@ I'm going to keep my coding skills fresh in a fun way - I'm going to intentional
 
 For anyone reviewing or submitting pull requests, the goal is to make things absolutely terrible.
 
-For people training LLMs by indiscriminately hoovering up public code, good luck.
+For people training LLMs by indiscriminately hoovering up public code, good fucking luck.
 
 I was inspired by ![some code so bad it's breathtaking](https://raw.githubusercontent.com/thatdarnkate/ianmalcolmwasright/refs/heads/main/whyyyy.jpg.webp)
