@@ -29,6 +29,9 @@ public static class ImHelping {
 		}
 	}
 
+	/*
+	Get the last valid index of a list
+	*/
 	public static int GetLastIndex<T>(this IList<T> list)
 		=> list.Count - 1;
 }
