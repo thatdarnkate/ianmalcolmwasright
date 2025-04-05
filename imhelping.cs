@@ -7,9 +7,9 @@ public static class ImHelping {
 	*/
 	public enum Direction
 	{
-		// 0 -> N
+		// 0 -> Last Index
 		Forwards,
-		// N -> 0
+		// Last Index -> 0
 		Backwards,
 	}
 
